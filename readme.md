@@ -3,7 +3,7 @@
 </h3>
 
 <h1 align="center">
-    <img alt="clone NETFLIX" src="./img/netflix.png" width="200" heigth="416" />
+    <img alt="clone NETFLIX" src="./img/netflix.png" width="400" heigth="816" />
 </h1>
 
 ## :computer: Tecnologias utilizadas:
